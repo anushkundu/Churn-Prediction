@@ -1,5 +1,4 @@
-# Churn-Prediction
-Telecom Customer Churn Prediction Using Machine Learning!
+# Telecom Customer Churn Prediction Using Machine Learning!
 
 The **Telco Customer Churn Dataset** is commonly used for predicting customer retention in the telecommunications industry. Here’s a breakdown of the dataset and its significance:
 
